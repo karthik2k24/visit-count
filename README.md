@@ -1,3 +1,5 @@
+
+testing
 # Simple app
 This is a simple web app that returns counter on how many times page has been seen.
 The application is using redis to store the count.
