@@ -16,6 +16,6 @@ services:
       PASSWORD: thebuilder
       THEBIGSECRET: "I love cookies."
       # END Secret environmental variables
-  # Redis is a requirement for this app to work.
+  # Redis is a requirement for this app to work. asd
   redis:
     image: "redis:alpine"
