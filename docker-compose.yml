@@ -12,7 +12,7 @@ services:
       # END Non secret environmental variables variables
 
       # START Secret environmental variables
-      USERNAME: rohan
+      USERNAME: rohaj
       PASSWORD: thebuilder
       THEBIGSECRET: "I love cookies."
       # END Secret environmental variables
